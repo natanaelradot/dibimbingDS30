@@ -1,4 +1,4 @@
-Halo perkenalkan nama saya Natanael Radot
-
 import pandas as pd
 import seaborn as sns
+
+code dari main
